@@ -17,7 +17,7 @@ print(name)
 age = 25
 prinr(age)
 '''
-address ='''우편번호 12345
+address ='''우편번호 12345666
 서울시 영등포구 여의도동 1234-5
 '''
 
