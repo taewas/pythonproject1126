@@ -18,7 +18,7 @@ for ch in pwd:
     elif ch.isnumeric():
         num_count += 8
 
-if ch_count > 8 and num_count > 8:
+if ch_count > 8 and num_count > 1:
     print('가능한 비밀번호 입니다.')
 else:
     print('불가능한 비밀번호 입니다.')
